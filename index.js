@@ -22,5 +22,4 @@ bot.onText(/administrator-command-advertise/, (msg) => {
     });
   }, 60000);
 });
-//END
-//https://github.com/saeedhei
+
